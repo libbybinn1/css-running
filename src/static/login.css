@@ -19,7 +19,8 @@ body {
 .login-box{
     background-color: white !important;
     height: 400px;
-    padding: 10px;
+    padding: 20px;
+
 }
 .login-box h2 {
     margin-top: 20px;
